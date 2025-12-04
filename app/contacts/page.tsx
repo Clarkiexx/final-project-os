@@ -34,7 +34,7 @@ export default function Contact() {
           className="mb-10 sm:mb-12 lg:mb-16 px-4"
         >
           <a
-            href="mailto:escartinjameboy@gmail.com"
+            href="mailto:clarkyorpo@gmail.com"
             className="inline-block bg-[var(--color-primary-600)] text-white px-6 sm:px-10 lg:px-12 py-4 sm:py-5 lg:py-6 rounded-full text-base sm:text-lg lg:text-xl font-semibold hover:bg-[var(--color-primary-700)] transition shadow-lg sm:shadow-xl hover:shadow-2xl break-all sm:break-normal"
           >
             clarkyorpo@gmail.com
